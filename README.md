@@ -1,4 +1,4 @@
-# DataStructure_projec
+# DataStructure_project
 
 제공된 데이터를 이용하여 주어진 문제를 해결한다.
 이때, 가장 합리적인 자료구조를 이용하여 문제를 해결한다.
@@ -58,7 +58,7 @@ cvs 파일로 제공되며, 예시는 아래와 같다.
 
   
     
-      
+#    
       
 
 ## Contributor
